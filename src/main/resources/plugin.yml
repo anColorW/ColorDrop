@@ -1,0 +1,9 @@
+name: colorDrop
+version: '${project.version}'
+main: me.color.main.Main
+
+
+commands:
+  drop:
+    description: Your description
+    usage: /<command>
